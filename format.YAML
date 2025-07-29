@@ -4,7 +4,7 @@ Resources:
   MyS3Bucket:
     Type: 'AWS::S3::Bucket'
     Properties:
-      BucketName: my-unique-bucket-name-123456
+      BucketName: BALABUCKCFT
       VersioningConfiguration:
         Status: Enabled
       
